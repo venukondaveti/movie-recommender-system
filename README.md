@@ -8,7 +8,7 @@ This application recommends movies similar to your favorite ones using **Content
 
 ## 🚀 Live Demo
 
-🔗 Add your Streamlit app link here
+🔗 https://content-based-movie-recommender-systems.streamlit.app
 
 ---
 
