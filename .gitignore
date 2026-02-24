@@ -45,6 +45,14 @@ Thumbs.db
 # Logs
 *.log
 
+# Large files and pickles
+*.pkl
+*.pickle
+*.joblib
+
+# CSV files (data)
+*.csv
+
 # Distribution / packaging
 build/
 develop-eggs/
